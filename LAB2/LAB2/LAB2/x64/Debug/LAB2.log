@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\C++\KSiS\LAB2\LAB2\LAB2\Main.cpp(70,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\KSiS\LAB2\LAB2\LAB2\Main.cpp(100,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\KSiS\LAB2\LAB2\LAB2\Main.cpp(168,10): warning C4101: IP_Mask: неиспользованная локальная переменная
+  LAB2.vcxproj -> C:\C++\KSiS\LAB2\LAB2\x64\Debug\LAB2.exe

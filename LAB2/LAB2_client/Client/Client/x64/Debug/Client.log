@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\C++\KSiS\LAB2\LAB2_client\Client\Client\Client.cpp(37,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\KSiS\LAB2\LAB2_client\Client\Client\Client.cpp(71,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\KSiS\LAB2\LAB2_client\Client\Client\Client.cpp(107,10): warning C4101: IP_Mask: неиспользованная локальная переменная
+  Client.vcxproj -> C:\C++\KSiS\LAB2\LAB2_client\Client\x64\Debug\Client.exe
